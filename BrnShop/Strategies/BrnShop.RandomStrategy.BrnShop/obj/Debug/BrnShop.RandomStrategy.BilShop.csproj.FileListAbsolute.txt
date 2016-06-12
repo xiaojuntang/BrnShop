@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.RandomStrategy.BilShop.dll
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.RandomStrategy.BilShop.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BilShop.RandomStrategy.BilShop\obj\Debug\BrnShop.RandomStrategy.BilShop.dll
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BilShop.RandomStrategy.BilShop\obj\Debug\BrnShop.RandomStrategy.BilShop.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.RandomStrategy.BilShop\obj\Debug\BrnShop.RandomStrategy.BilShop.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.RandomStrategy.BilShop\obj\Debug\BrnShop.RandomStrategy.BilShop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.RandomStrategy.BilShop\obj\Debug\BrnShop.RandomStrategy.BilShop.dll

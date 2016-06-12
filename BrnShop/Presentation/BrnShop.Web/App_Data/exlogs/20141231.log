@@ -1,0 +1,21 @@
+Log Entry : 2014年12月31日 17:58:21
+方法:Void Execute(),异常信息:未将对象引用设置到对象的实例。
+------------------------------------
+Log Entry : 2014年12月31日 17:58:30
+方法:Void Execute(),异常信息:未将对象引用设置到对象的实例。
+------------------------------------
+Log Entry : 2014年12月31日 17:58:32
+方法:Void Execute(),异常信息:未将对象引用设置到对象的实例。
+------------------------------------
+Log Entry : 2014年12月31日 18:35:11
+方法:System.CodeDom.Compiler.CompilerResults Compile(),异常信息:c:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\themes\default\views\cart\ajaxindex.cshtml(129): error CS0103: 当前上下文中不存在名称“cartProductInfo”
+------------------------------------
+Log Entry : 2014年12月31日 19:19:07
+方法:Void Execute(),异常信息:未将对象引用设置到对象的实例。
+------------------------------------
+Log Entry : 2014年12月31日 20:27:53
+方法:Void Execute(),异常信息:未将对象引用设置到对象的实例。
+------------------------------------
+Log Entry : 2014年12月31日 20:39:57
+方法:Void Execute(),异常信息:未将对象引用设置到对象的实例。
+------------------------------------

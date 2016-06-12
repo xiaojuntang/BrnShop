@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\BrnShop\Libraries\BrnShop.Core\bin\Release\BrnShop.Core.dll
+C:\Users\Administrator\Desktop\BrnShop\Libraries\BrnShop.Core\bin\Release\BrnShop.Core.pdb
+C:\Users\Administrator\Desktop\BrnShop\Libraries\BrnShop.Core\obj\Release\BrnShop.Core.dll
+C:\Users\Administrator\Desktop\BrnShop\Libraries\BrnShop.Core\obj\Release\BrnShop.Core.pdb
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Libraries\BrnShop.Core\bin\Release\BrnShop.Core.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Libraries\BrnShop.Core\bin\Release\BrnShop.Core.pdb
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Libraries\BrnShop.Core\obj\Release\BrnShop.Core.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Libraries\BrnShop.Core\obj\Release\BrnShop.Core.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Libraries\BrnShop.Core\bin\Release\BrnShop.Core.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Libraries\BrnShop.Core\bin\Release\BrnShop.Core.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Libraries\BrnShop.Core\obj\Release\BrnShop.Core.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Libraries\BrnShop.Core\obj\Release\BrnShop.Core.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Libraries\BrnShop.Core\obj\Release\BrnShop.Core.csprojResolveAssemblyReference.cache

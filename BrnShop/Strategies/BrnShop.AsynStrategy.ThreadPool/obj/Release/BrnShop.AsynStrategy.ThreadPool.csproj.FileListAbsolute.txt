@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.AsynStrategy.ThreadPool.dll
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.AsynStrategy.ThreadPool.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.dll
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.AsynStrategy.ThreadPool.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.AsynStrategy.ThreadPool.pdb
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.AsynStrategy.ThreadPool.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.AsynStrategy.ThreadPool.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.AsynStrategy.ThreadPool\obj\Release\BrnShop.AsynStrategy.ThreadPool.pdb

@@ -1,0 +1,9 @@
+Log Entry : 2014年12月06日 17:50:34
+方法:System.CodeDom.Compiler.CompilerResults Compile(),异常信息:c:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\themes\default\views\catalog\product.cshtml(322): error CS1061: “BrnShop.Core.ProductInfo”不包含“StoreId”的定义，并且找不到可接受类型为“BrnShop.Core.ProductInfo”的第一个参数的扩展方法“StoreId”(是否缺少 using 指令或程序集引用?)
+------------------------------------
+Log Entry : 2014年12月06日 17:59:01
+方法:System.CodeDom.Compiler.CompilerResults Compile(),异常信息:c:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\themes\default\views\cart\addsuccess.cshtml(166): error CS1061: “BrnShop.Web.Framework.WebWorkContext”不包含“MallVersion”的定义，并且找不到可接受类型为“BrnShop.Web.Framework.WebWorkContext”的第一个参数的扩展方法“MallVersion”(是否缺少 using 指令或程序集引用?)
+------------------------------------
+Log Entry : 2014年12月06日 18:07:08
+方法:System.CodeDom.Compiler.CompilerResults Compile(),异常信息:c:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\themes\default\views\cart\index.cshtml(296): error CS1061: “BrnShop.Web.Framework.WebWorkContext”不包含“MallVersion”的定义，并且找不到可接受类型为“BrnShop.Web.Framework.WebWorkContext”的第一个参数的扩展方法“MallVersion”(是否缺少 using 指令或程序集引用?)
+------------------------------------

@@ -1,0 +1,4 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.SearchStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.SearchStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.SearchStrategy.SqlServer\obj\Release\BrnShop.SearchStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.SearchStrategy.SqlServer\obj\Release\BrnShop.SearchStrategy.SqlServer.pdb

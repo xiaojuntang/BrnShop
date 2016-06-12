@@ -1,0 +1,12 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.RDBS\obj\Debug\BrnShop.CartStrategy.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.RDBS\obj\Debug\BrnShop.CartStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.RDBS\obj\Debug\BrnShop.CartStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.SqlServer\obj\Debug\BrnShop.CartStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.SqlServer\obj\Debug\BrnShop.CartStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.SqlServer\obj\Debug\BrnShop.CartStrategy.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\BrnShop\Strategies\BrnShop.CartStrategy.SqlServer\obj\Debug\BrnShop.CartStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\BrnShop\Strategies\BrnShop.CartStrategy.SqlServer\obj\Debug\BrnShop.CartStrategy.SqlServer.pdb

@@ -1,0 +1,9 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.YTO\Views\AdminYTO\AddShipRule.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.YTO\Views\AdminYTO\ShipRuleList.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.YTO\DB.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.YTO\Plugin.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.YTO\Views\AdminYTO\EditShipRule.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.YTO\BrnShop.ShipPlugin.YTO.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.YTO\BrnShop.ShipPlugin.YTO.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.ShipPlugin.YTO\obj\Release\BrnShop.ShipPlugin.YTO.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.ShipPlugin.YTO\obj\Release\BrnShop.ShipPlugin.YTO.pdb

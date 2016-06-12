@@ -1,0 +1,8 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.ChinaBank\Plugin.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.ChinaBank\DB.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.ChinaBank\Views\AdminChinaBank\Config.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.ChinaBank\Views\Show.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.ChinaBank\BrnShop.PayPlugin.ChinaBank.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.ChinaBank\BrnShop.PayPlugin.ChinaBank.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.PayPlugin.ChinaBank\obj\Release\BrnShop.PayPlugin.ChinaBank.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.PayPlugin.ChinaBank\obj\Release\BrnShop.PayPlugin.ChinaBank.pdb

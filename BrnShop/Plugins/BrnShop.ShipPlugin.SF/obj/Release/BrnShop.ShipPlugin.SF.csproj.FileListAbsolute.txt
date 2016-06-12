@@ -1,0 +1,9 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.SF\Views\AdminSF\AddShipRule.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.SF\Views\AdminSF\ShipRuleList.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.SF\DB.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.SF\Plugin.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.SF\Views\AdminSF\EditShipRule.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.SF\BrnShop.ShipPlugin.SF.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.ShipPlugin.SF\BrnShop.ShipPlugin.SF.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.ShipPlugin.SF\obj\Release\BrnShop.ShipPlugin.SF.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.ShipPlugin.SF\obj\Release\BrnShop.ShipPlugin.SF.pdb

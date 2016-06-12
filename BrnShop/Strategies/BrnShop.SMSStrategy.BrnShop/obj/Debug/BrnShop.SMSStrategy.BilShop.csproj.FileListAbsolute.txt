@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.SMSStrategy.BilShop.dll
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.SMSStrategy.BilShop.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BilShop.SMSStrategy.BilShop\obj\Debug\BrnShop.SMSStrategy.BilShop.dll
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BilShop.SMSStrategy.BilShop\obj\Debug\BrnShop.SMSStrategy.BilShop.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.SMSStrategy.BilShop\obj\Debug\BrnShop.SMSStrategy.BilShop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.SMSStrategy.BilShop\obj\Debug\BrnShop.SMSStrategy.BilShop.dll
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.SMSStrategy.BilShop\obj\Debug\BrnShop.SMSStrategy.BilShop.pdb

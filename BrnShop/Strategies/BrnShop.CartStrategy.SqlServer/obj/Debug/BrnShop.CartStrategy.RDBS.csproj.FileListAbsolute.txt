@@ -1,0 +1,5 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.RDBS\obj\Debug\BrnShop.CartStrategy.RDBS.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.RDBS.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.RDBS.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.RDBS\obj\Debug\BrnShop.CartStrategy.RDBS.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.RDBS\obj\Debug\BrnShop.CartStrategy.RDBS.pdb

@@ -1,0 +1,29 @@
+Log Entry : 2014年10月13日 13:32:45
+方法:Int32 GetOrdinal(System.String),异常信息:salecount
+------------------------------------
+Log Entry : 2014年10月13日 13:40:00
+方法:System.Web.Mvc.ViewEngineResult FindView(System.Web.Mvc.ControllerContext),异常信息:未找到视图“productimagelist”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/administration/views/product/productimagelist.cshtml
+~/administration/views/shared/productimagelist.cshtml
+------------------------------------
+Log Entry : 2014年10月13日 13:40:59
+方法:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action]),异常信息:找不到存储过程 'bsp_getbrandcategorylistbybrandid'。
+------------------------------------
+Log Entry : 2014年10月13日 13:40:59
+方法:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action]),异常信息:找不到存储过程 'bsp_getbrandcategorylistbybrandid'。
+------------------------------------
+Log Entry : 2014年10月13日 13:43:10
+方法:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action]),异常信息:找不到存储过程 'bsp_getbrandcategorylistbybrandid'。
+------------------------------------
+Log Entry : 2014年10月13日 13:43:10
+方法:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action]),异常信息:找不到存储过程 'bsp_getbrandcategorylistbybrandid'。
+------------------------------------
+Log Entry : 2014年10月13日 13:46:08
+方法:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action]),异常信息:列名 'pid' 不明确。
+------------------------------------
+Log Entry : 2014年10月13日 13:47:32
+方法:Int32 GetOrdinal(System.String),异常信息:haschild
+------------------------------------
+Log Entry : 2014年10月13日 13:47:32
+方法:Int32 GetOrdinal(System.String),异常信息:haschild
+------------------------------------

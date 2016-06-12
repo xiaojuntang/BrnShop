@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EventStrategy.Timer.dll
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EventStrategy.Timer.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.dll
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EventStrategy.Timer.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EventStrategy.Timer.pdb
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EventStrategy.Timer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EventStrategy.Timer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.EventStrategy.Timer\obj\Release\BrnShop.EventStrategy.Timer.pdb

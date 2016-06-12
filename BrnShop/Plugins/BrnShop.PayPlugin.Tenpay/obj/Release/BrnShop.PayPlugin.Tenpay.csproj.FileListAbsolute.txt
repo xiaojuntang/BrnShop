@@ -1,0 +1,15 @@
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Plugins\BrnShop.PayPlugin.Tenpay\obj\Release\BrnShop.PayPlugin.Tenpay.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\DB.config
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\Plugin.config
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\BrnShop.PayPlugin.Tenpay.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\BrnShop.PayPlugin.Tenpay.pdb
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Plugins\BrnShop.PayPlugin.Tenpay\obj\Release\BrnShop.PayPlugin.Tenpay.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Plugins\BrnShop.PayPlugin.Tenpay\obj\Release\BrnShop.PayPlugin.Tenpay.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\DB.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\Plugin.config
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\Views\AdminTenpay\Config.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\Views\Show.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\BrnShop.PayPlugin.Tenpay.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\Plugins\BrnShop.PayPlugin.Tenpay\BrnShop.PayPlugin.Tenpay.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.PayPlugin.Tenpay\obj\Release\BrnShop.PayPlugin.Tenpay.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Plugins\BrnShop.PayPlugin.Tenpay\obj\Release\BrnShop.PayPlugin.Tenpay.pdb

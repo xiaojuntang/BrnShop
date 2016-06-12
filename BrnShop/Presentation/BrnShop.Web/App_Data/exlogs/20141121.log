@@ -1,0 +1,6 @@
+Log Entry : 2014年11月21日 00:03:53
+方法:Void <Execute>b__0(),异常信息:未将对象引用设置到对象的实例。
+------------------------------------
+Log Entry : 2014年11月21日 00:17:07
+方法:Int32 AddProduct(BrnShop.Core.ProductInfo, Int32, Int32, System.Collections.Generic.List`1[BrnShop.Core.ProductAttributeInfo]),异常信息:未将对象引用设置到对象的实例。
+------------------------------------

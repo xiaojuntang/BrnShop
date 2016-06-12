@@ -1,0 +1,4 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.CartStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.SqlServer\obj\Release\BrnShop.CartStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.CartStrategy.SqlServer\obj\Release\BrnShop.CartStrategy.SqlServer.pdb

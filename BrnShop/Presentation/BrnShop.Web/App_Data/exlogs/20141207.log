@@ -1,0 +1,6 @@
+Log Entry : 2014年12月07日 08:03:27
+方法:System.CodeDom.Compiler.CompilerResults Compile(),异常信息:c:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\themes\default\views\ucenter\orderlist.cshtml(202): error CS1061: “BrnShop.Core.OrderProductInfo”不包含“StoreId”的定义，并且找不到可接受类型为“BrnShop.Core.OrderProductInfo”的第一个参数的扩展方法“StoreId”(是否缺少 using 指令或程序集引用?)
+------------------------------------
+Log Entry : 2014年12月07日 08:03:45
+方法:System.Data.DataColumn GetDataColumn(System.String),异常信息:列“shipconame”不属于表 Table。
+------------------------------------

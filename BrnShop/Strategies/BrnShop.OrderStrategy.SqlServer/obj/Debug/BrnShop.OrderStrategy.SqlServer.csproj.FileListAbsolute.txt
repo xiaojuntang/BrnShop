@@ -1,0 +1,9 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.OrderStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.OrderStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.OrderStrategy.SqlServer\obj\Debug\BrnShop.OrderStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.OrderStrategy.SqlServer\obj\Debug\BrnShop.OrderStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.OrderStrategy.SqlServer\obj\Debug\BrnShop.OrderStrategy.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.OrderStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.OrderStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\BrnShop\Strategies\BrnShop.OrderStrategy.SqlServer\obj\Debug\BrnShop.OrderStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\BrnShop\Strategies\BrnShop.OrderStrategy.SqlServer\obj\Debug\BrnShop.OrderStrategy.SqlServer.pdb

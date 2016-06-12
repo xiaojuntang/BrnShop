@@ -1,0 +1,7 @@
+Log Entry : 2014年11月01日 13:25:17
+方法:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action]),异常信息:关键字 'SELECT' 附近有语法错误。
+')' 附近有语法错误。
+------------------------------------
+Log Entry : 2014年11月01日 13:30:31
+方法:Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action]),异常信息:')' 附近有语法错误。
+------------------------------------

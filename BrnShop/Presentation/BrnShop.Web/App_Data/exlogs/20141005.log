@@ -1,0 +1,3 @@
+Log Entry : 2014年10月05日 19:59:37
+方法:System.Data.DataColumn GetDataColumn(System.String),异常信息:列“recoreid”不属于表 Table。
+------------------------------------

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EmailStrategy.DotNet.dll
+C:\Users\Administrator\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EmailStrategy.DotNet.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.dll
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.pdb
+C:\Users\Administrator\Desktop\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EmailStrategy.DotNet.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EmailStrategy.DotNet.pdb
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.dll
+C:\Users\ZhangMeng\Desktop\张猛\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EmailStrategy.DotNet.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.EmailStrategy.DotNet.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnShop\Strategies\BrnShop.EmailStrategy.DotNet\obj\Release\BrnShop.EmailStrategy.DotNet.pdb
