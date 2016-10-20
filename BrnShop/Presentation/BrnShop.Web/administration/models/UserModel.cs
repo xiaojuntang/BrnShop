@@ -75,7 +75,7 @@ namespace BrnShop.Web.Admin.Models
         /// <summary>
         /// 确认密码
         /// </summary>
-        [Compare("Password", ErrorMessage = "密码必须相同")]
+        [System.ComponentModel.DataAnnotations.Compare("Password", ErrorMessage = "密码必须相同")]
         public string ConfirmPassword { get; set; }
         /// <summary>
         /// 用户等级id

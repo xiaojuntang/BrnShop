@@ -31,3 +31,8 @@ C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.W
 C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\administration\obj\Debug\BrnShop.Web.Admin.dll
 C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\administration\obj\Debug\BrnShop.Web.Admin.pdb
 C:\Users\ZhangMeng\Desktop\工作\BrnShop\Presentation\BrnShop.Web\administration\obj\Debug\BrnShop.Web.Admin.csprojResolveAssemblyReference.cache
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\administration\obj\Debug\BrnShop.Web.Admin.csprojResolveAssemblyReference.cache
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\administration\obj\Debug\BrnShop.Web.Admin.dll
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\administration\obj\Debug\BrnShop.Web.Admin.pdb
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.Web.Admin.dll
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.Web.Admin.pdb

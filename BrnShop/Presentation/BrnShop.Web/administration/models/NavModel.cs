@@ -46,7 +46,7 @@ namespace BrnShop.Web.Admin.Models
         /// </summary>
         [Required(ErrorMessage = "地址不能为空")]
         [StringLength(125, ErrorMessage = "地址长度不能大于125")]
-        [Url]
+        [Framework.Url]
         public string NavUrl { get; set; }
 
         /// <summary>

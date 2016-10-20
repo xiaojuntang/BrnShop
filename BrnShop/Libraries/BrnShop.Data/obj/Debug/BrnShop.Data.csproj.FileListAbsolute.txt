@@ -54,3 +54,10 @@ D:\win7我的文档-桌面-收藏夹\Desktop\BrnShop\Libraries\BrnShop.Data\bin\
 D:\win7我的文档-桌面-收藏夹\Desktop\BrnShop\Libraries\BrnShop.Data\obj\Debug\BrnShop.Data.csprojResolveAssemblyReference.cache
 D:\win7我的文档-桌面-收藏夹\Desktop\BrnShop\Libraries\BrnShop.Data\obj\Debug\BrnShop.Data.dll
 D:\win7我的文档-桌面-收藏夹\Desktop\BrnShop\Libraries\BrnShop.Data\obj\Debug\BrnShop.Data.pdb
+E:\T.X.Jun\BrnShop\BrnShop\Libraries\BrnShop.Data\bin\Debug\BrnShop.Data.dll
+E:\T.X.Jun\BrnShop\BrnShop\Libraries\BrnShop.Data\bin\Debug\BrnShop.Data.pdb
+E:\T.X.Jun\BrnShop\BrnShop\Libraries\BrnShop.Data\bin\Debug\BrnShop.Core.dll
+E:\T.X.Jun\BrnShop\BrnShop\Libraries\BrnShop.Data\bin\Debug\BrnShop.Core.pdb
+E:\T.X.Jun\BrnShop\BrnShop\Libraries\BrnShop.Data\obj\Debug\BrnShop.Data.csprojResolveAssemblyReference.cache
+E:\T.X.Jun\BrnShop\BrnShop\Libraries\BrnShop.Data\obj\Debug\BrnShop.Data.dll
+E:\T.X.Jun\BrnShop\BrnShop\Libraries\BrnShop.Data\obj\Debug\BrnShop.Data.pdb

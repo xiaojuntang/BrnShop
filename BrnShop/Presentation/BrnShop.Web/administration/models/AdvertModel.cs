@@ -99,7 +99,7 @@ namespace BrnShop.Web.Admin.Models
         /// 网址
         /// </summary>
         [StringLength(100, ErrorMessage = "网址长度不能大于100")]
-        [Url]
+        [Framework.Url]
         public string Url { get; set; }
         /// <summary>
         /// 开始时间

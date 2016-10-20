@@ -15,9 +15,9 @@ namespace BrnShop.Core
             try
             {
                 string[] fileNameList = Directory.GetFiles(System.Web.HttpRuntime.BinDirectory, "BrnShop.SMSStrategy.*.dll", SearchOption.TopDirectoryOnly);
-                _ismsstrategy = (ISMSStrategy)Activator.CreateInstance(Type.GetType(string.Format("BrnShop.SMSStrategy.{0}.SMSStrategy, BrnShop.SMSStrategy.{0}", fileNameList[0].Substring(fileNameList[0].IndexOf("SMSStrategy.") + 12).Replace(".dll", "")),
-                                                                                   false,
-                                                                                   true));
+                _ismsstrategy = (ISMSStrategy)Activator.CreateInstance(Type.GetType(string.Format("BrnShop.SMSStrategy.{0}.SMSStrategy, BrnShop.SMSStrategy.{0}", 
+                    fileNameList[0].Substring(fileNameList[0].IndexOf("SMSStrategy.", StringComparison.Ordinal) + 12).Replace(".dll", "")),
+                    false,true));
             }
             catch
             {

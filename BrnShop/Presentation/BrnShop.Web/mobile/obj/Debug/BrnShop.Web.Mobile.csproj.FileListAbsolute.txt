@@ -7,3 +7,8 @@ C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.Web.Mobi
 C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.Web.Mobile.pdb
 C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\mobile\obj\Debug\BrnShop.Web.Mobile.dll
 C:\Users\ZhangMeng\Desktop\BrnShop\Presentation\BrnShop.Web\mobile\obj\Debug\BrnShop.Web.Mobile.pdb
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.Web.Mobile.dll
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\bin\BrnShop.Web.Mobile.pdb
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\mobile\obj\Debug\BrnShop.Web.Mobile.csprojResolveAssemblyReference.cache
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\mobile\obj\Debug\BrnShop.Web.Mobile.dll
+E:\T.X.Jun\BrnShop\BrnShop\Presentation\BrnShop.Web\mobile\obj\Debug\BrnShop.Web.Mobile.pdb
