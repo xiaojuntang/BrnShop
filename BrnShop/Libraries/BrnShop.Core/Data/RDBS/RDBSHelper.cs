@@ -1,10 +1,4 @@
-﻿//===============================================================================
-// This file is based on the Microsoft Data Access Application Block for .NET
-// For more information please go to 
-// http://msdn.microsoft.com/library/en-us/dnbda/html/daab-rm.asp
-//===============================================================================
-using System;
-using System.Text;
+﻿using System;
 using System.Data;
 using System.Data.Common;
 
@@ -20,7 +14,7 @@ namespace BrnShop.Core
         private static DbProviderFactory _factory;//抽象数据工厂
 
         private static string _rdbstablepre;//关系数据库对象前缀
-        private static string _connectionstring;//关系数据库连接字符串
+        //private static string _connectionstring;//关系数据库连接字符串
 
         /// <summary>
         /// 关系数据库对象前缀
@@ -33,10 +27,10 @@ namespace BrnShop.Core
         /// <summary>
         /// 关系数据库连接字符串
         /// </summary>
-        public static string ConnectionString
-        {
-            get { return _connectionstring; }
-        }
+        //public static string ConnectionString
+        //{
+        //    get { return _connectionstring; }
+        //}
 
 #if DEBUG
         private static int _executecount = 0;
@@ -99,22 +93,22 @@ namespace BrnShop.Core
             //设置关系数据库对象前缀
             _rdbstablepre = BSPConfig.RDBSConfig.RDBSTablePre;
             //设置关系数据库连接字符串
-            _connectionstring = BSPConfig.RDBSConfig.RDBSConnectString;
+            //_connectionstring = BSPConfig.RDBSConfig.RDBSConnectString;
         }
 
         #region ExecuteNonQuery
 
-        public static int ExecuteNonQuery(string cmdText)
+        public static int ExecuteNonQuery(string connStr, string cmdText)
         {
-            return ExecuteNonQuery(CommandType.Text, cmdText, null);
+            return ExecuteNonQuery(connStr, CommandType.Text, cmdText, null);
         }
 
-        public static int ExecuteNonQuery(CommandType cmdType, string cmdText)
+        public static int ExecuteNonQuery(string connStr, CommandType cmdType, string cmdText)
         {
-            return ExecuteNonQuery(cmdType, cmdText, null);
+            return ExecuteNonQuery(connStr, cmdType, cmdText, null);
         }
 
-        public static int ExecuteNonQuery(CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
+        public static int ExecuteNonQuery(string connStr, CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
         {
 #if DEBUG
             _executecount++;
@@ -123,7 +117,7 @@ namespace BrnShop.Core
 
             using (DbConnection conn = _factory.CreateConnection())
             {
-                conn.ConnectionString = ConnectionString;
+                conn.ConnectionString = connStr;
                 PrepareCommand(cmd, conn, null, cmdType, cmdText, commandParameters);
 #if DEBUG
                 DateTime startTime = DateTime.Now;
@@ -169,12 +163,12 @@ namespace BrnShop.Core
 
         #region ExecuteReader
 
-        public static DbDataReader ExecuteReader(CommandType cmdType, string cmdText)
+        public static DbDataReader ExecuteReader(string connStr, CommandType cmdType, string cmdText)
         {
-            return ExecuteReader(cmdType, cmdText, null);
+            return ExecuteReader(connStr, cmdType, cmdText, null);
         }
 
-        public static DbDataReader ExecuteReader(CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
+        public static DbDataReader ExecuteReader(string connStr, CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
         {
 #if DEBUG
             _executecount++;
@@ -182,7 +176,7 @@ namespace BrnShop.Core
 
             DbCommand cmd = _factory.CreateCommand();
             DbConnection conn = _factory.CreateConnection();
-            conn.ConnectionString = ConnectionString;
+            conn.ConnectionString = connStr;
 
             try
             {
@@ -238,12 +232,12 @@ namespace BrnShop.Core
 
         #region ExecuteScalar
 
-        public static object ExecuteScalar(CommandType cmdType, string cmdText)
+        public static object ExecuteScalar(string connStr, CommandType cmdType, string cmdText)
         {
-            return ExecuteScalar(cmdType, cmdText, null);
+            return ExecuteScalar(connStr, cmdType, cmdText, null);
         }
 
-        public static object ExecuteScalar(CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
+        public static object ExecuteScalar(string connStr, CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
         {
 #if DEBUG
             _executecount++;
@@ -253,7 +247,7 @@ namespace BrnShop.Core
 
             using (DbConnection connection = _factory.CreateConnection())
             {
-                connection.ConnectionString = ConnectionString;
+                connection.ConnectionString = connStr;
                 PrepareCommand(cmd, connection, null, cmdType, cmdText, commandParameters);
 #if DEBUG
                 DateTime startTime = DateTime.Now;
@@ -299,12 +293,12 @@ namespace BrnShop.Core
 
         #region ExecuteDataset
 
-        public static DataSet ExecuteDataset(CommandType cmdType, string cmdText)
+        public static DataSet ExecuteDataset(string connStr, CommandType cmdType, string cmdText)
         {
-            return ExecuteDataset(cmdType, cmdText, null);
+            return ExecuteDataset(connStr, cmdType, cmdText, null);
         }
 
-        public static DataSet ExecuteDataset(CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
+        public static DataSet ExecuteDataset(string connStr, CommandType cmdType, string cmdText, params DbParameter[] commandParameters)
         {
 #if DEBUG
             _executecount++;
@@ -312,7 +306,7 @@ namespace BrnShop.Core
 
             DbCommand cmd = _factory.CreateCommand();
             DbConnection conn = _factory.CreateConnection();
-            conn.ConnectionString = ConnectionString;
+            conn.ConnectionString = connStr;
             DbDataAdapter adapter = _factory.CreateDataAdapter();
 
             try
